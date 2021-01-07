@@ -23,6 +23,7 @@
 1. 쿼리 DSL 공부 & 포스팅
 
 2. 종만북 시간복잡도 공부 & 예제 문제 한문제.
+https://eloquent-knuth-c533eb.netlify.app/#/./algorithm/jongmanbook/time_complexity
 
 3. 벅스라이프 포트폴리오 완성...
 
