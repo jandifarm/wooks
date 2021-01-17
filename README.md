@@ -36,3 +36,13 @@ https://eloquent-knuth-c533eb.netlify.app/#/./algorithm/jongmanbook/time_complex
 1. SAP & ABAP 공부
 
 2. 종만북 완전탐색 3문제 풀기...
+
+---
+
+# 1월 3주차 계획(1/18 ~ 1/24)
+
+휴식 : 맘대루
+
+1. k8s강의 5개 이상 수강 & 포스팅
+
+2. 알고리즘 1문제 풀기.
