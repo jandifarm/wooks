@@ -46,3 +46,13 @@ https://eloquent-knuth-c533eb.netlify.app/#/./algorithm/jongmanbook/time_complex
 1. k8s강의 5개 이상 수강 & 포스팅
 
 2. 알고리즘 1문제 풀기.
+
+---
+
+# 1월 4주차 계획 (1/25 ~ 1/31)
+
+휴식 : 맘대루
+
+1. k8s강의 컨트롤러 부분 모두 수강
+
+2. 알고리즘 1문제 풀기.
