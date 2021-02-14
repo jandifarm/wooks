@@ -66,3 +66,11 @@ https://eloquent-knuth-c533eb.netlify.app/#/./algorithm/jongmanbook/time_complex
 1. k8s강의 중급편-pod 다 듣기
 
 2. 알고리즘 3문제 풀기.
+
+---
+
+# 2월 1주차 계획 (1/31 ~ 2/6)
+
+휴식 : 맘대루
+
+1. 111알고리즘.
