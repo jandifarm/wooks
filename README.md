@@ -69,7 +69,7 @@ https://eloquent-knuth-c533eb.netlify.app/#/./algorithm/jongmanbook/time_complex
 
 ---
 
-# 2월 1주차 계획 (1/31 ~ 2/6)
+# 2월 3주차 계획 (1/31 ~ 2/6)
 
 휴식 : 맘대루
 
